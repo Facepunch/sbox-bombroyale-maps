@@ -1,0 +1,22 @@
+{
+  "Title": "Standard Arena",
+  "Type": "map",
+  "Org": "facepunch",
+  "Ident": "br_standardarena",
+  "Tags": "",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "Summary": "",
+    "Description": "",
+    "Public": true,
+    "GameSupport": [
+      "facepunch.bombroyale"
+    ]
+  }
+}
